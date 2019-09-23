@@ -1,0 +1,8 @@
+[package]
+name = "color"
+version = "0.1.0"
+authors = ["Roy Ivy III <rivy.dev@gmail.com>"]
+
+[dependencies]
+wincolor = "1.0.0"
+termcolor = "1.0.1"
